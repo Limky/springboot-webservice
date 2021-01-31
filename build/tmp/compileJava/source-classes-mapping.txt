@@ -1,0 +1,2 @@
+com/limky/admin/springboot/web/Application.java
+ com.limky.admin.springboot.web.Application
