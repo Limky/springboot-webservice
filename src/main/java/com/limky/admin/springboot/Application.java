@@ -1,4 +1,4 @@
-package com.limky.admin.springboot.web;
+package com.limky.admin.springboot;
 
 
 import org.springframework.boot.SpringApplication;
