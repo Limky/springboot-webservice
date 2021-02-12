@@ -1,7 +1,9 @@
 package com.limky.admin.springboot.web.dto;
 
 import com.limky.admin.springboot.domain.posts.Posts;
+import lombok.Getter;
 
+@Getter
 public class PostsResponseDto {
 
     private Long id;
