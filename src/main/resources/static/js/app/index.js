@@ -32,6 +32,7 @@ var main = {
         }).fail(function (error) {
             alert(JSON.stringify(error));
         });
+<<<<<<< HEAD
     },
 
         update : function () {
@@ -55,6 +56,11 @@ var main = {
                 alert(JSON.stringify(error));
             });
         }
+=======
+    }
+
+
+>>>>>>> origin/master
 };
 
 main.init();
